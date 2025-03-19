@@ -1,0 +1,5 @@
+together  # For interacting with the Llama model API
+python-pptx  # For processing PowerPoint (.pptx) files
+PyMuPDF  # For extracting text from PDF files
+streamlit  # For creating the UI with file upload and button interaction
+reportlab  # For generating the output PDF
